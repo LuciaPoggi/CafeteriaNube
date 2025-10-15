@@ -2,3 +2,6 @@
 
 Cliente: 1
 Pedido: Hamburguesa con patatas
+
+Cliente: 2
+Pedido: Latte
